@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/eduardonunesp/sslb/lb"
+	"github.com/soopsio/sslb/lb"
 )
 
 const DEFAULT_FILENAME = "config.json"

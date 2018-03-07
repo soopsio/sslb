@@ -22,7 +22,7 @@ It's a Super Simples Load Balancer, just a little project to achieve some kind o
 To install type:
 
 ```
-go get github.com/eduardonunesp/sslb
+go get github.com/soopsio/sslb
 ```
 
 Don't forget to create your configuration file `config.json` at the same directory of project and run it. You can use the command `sslb -c` to create an example of configuration file.
@@ -34,7 +34,7 @@ Type `sslb -h` for the command line help
 ```
 sslb -h                                                                                                                                                              
 NAME:
-   SSLB (github.com/eduardonunesp/sslb) - sslb
+   SSLB (github.com/soopsio/sslb) - sslb
 
 USAGE:
    sslb [global options] command [command options] [arguments...]

@@ -7,7 +7,7 @@ import (
 	"net/rpc"
 	"net/rpc/jsonrpc"
 
-	"github.com/eduardonunesp/sslb/lb"
+	"github.com/soopsio/sslb/lb"
 )
 
 type ServerStatus struct {

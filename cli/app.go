@@ -3,10 +3,10 @@ package cli
 import (
 	"os"
 
-	"github.com/eduardonunesp/sslb/Godeps/_workspace/src/github.com/codegangsta/cli"
+	"github.com/codegangsta/cli"
 )
 
-const APP_NAME = "SSLB (github.com/eduardonunesp/sslb)"
+const APP_NAME = "SSLB (github.com/soopsio/sslb)"
 const APP_USAGE = "sslb"
 const VERSION_MAJOR = "0"
 const VERSION_MINOR = "1"

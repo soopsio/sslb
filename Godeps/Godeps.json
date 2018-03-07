@@ -1,6 +1,7 @@
 {
-	"ImportPath": "github.com/eduardonunesp/sslb",
-	"GoVersion": "go1.5.1",
+	"ImportPath": "github.com/soopsio/sslb",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v80",
 	"Deps": [
 		{
 			"ImportPath": "github.com/codegangsta/cli",

@@ -10,11 +10,11 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/eduardonunesp/sslb/Godeps/_workspace/src/github.com/codegangsta/cli"
-	"github.com/eduardonunesp/sslb/Godeps/_workspace/src/github.com/olekukonko/tablewriter"
-	"github.com/eduardonunesp/sslb/cfg"
-	"github.com/eduardonunesp/sslb/lb"
-	sslbRPC "github.com/eduardonunesp/sslb/rpc"
+	"github.com/codegangsta/cli"
+	"github.com/olekukonko/tablewriter"
+	"github.com/soopsio/sslb/cfg"
+	"github.com/soopsio/sslb/lb"
+	sslbRPC "github.com/soopsio/sslb/rpc"
 )
 
 const (
